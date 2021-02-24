@@ -1,0 +1,13 @@
+int f(int x) {
+    print(x + 1);
+}
+
+int main() {
+   int x;
+   float y;
+   bool z;
+   x = 3;  // <-- Need to add function call syntax
+   print("here");
+   // It is not hard to add function call syntax. It is just an identifier
+
+}
